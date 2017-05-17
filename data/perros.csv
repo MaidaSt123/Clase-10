@@ -1,6 +1,6 @@
 raza,pais,size,clasificacion,caracter
-"Pastor Alemán",Alemania,Pastor,Inteligente
-"Border Collie","Reino Unido",Ovejero,Inteligente
+"Pastor Alemán",Alemania,Grande,Pastor,Inteligente
+"Border Collie","Reino Unido",Mediano,Ovejero,Inteligente
 Bóxer,Alemania,Mediano,Vigilante,Fiel
 "San Bernardo",Suiza,Gigante,Escolta,Fiel
 "Bull Terrier","Reino Unido",Mediano,Bull,Sociable
@@ -9,3 +9,4 @@ Bóxer,Alemania,Mediano,Vigilante,Fiel
 Beagle,"Reino Unido",Pequeño,Sabueso,Juguetón
 "Bichón Maltés",Italia,Toy,"De cartera",Activo
 Barbucho,Chile,Mediano,Ovejero,Fiel
+
